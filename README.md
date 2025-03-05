@@ -1,11 +1,13 @@
 # Hi there 👋
 
-My name is Adam Miller, I am an [Open Source](https://opensource.org/) and [Linux](https://kernel.org/) nerd. This is my tiny corner of the GitHub.
+My name is Adam Miller, I am an [Open Source](https://opensource.org/) and [Linux](https://kernel.org/) nerd. This is my tiny corner of GitHub.
 
 ## About Me
 I am a loving husband and father, an open source fanatic.
 
-I'm a Distinguished Engineer at [Red Hat](https://www.redhat.com), and currently a member of [OpenShift AI](https://www.redhat.com/en/technologies/cloud-computing/openshift/openshift-ai) Engineering Leadership. Previously I was a member of the [Ansible](https://www.redhat.com/en/technologies/management/ansible) Engineering Leadership.
+I'm a Distinguished Engineer at [Red Hat](https://www.redhat.com), and currently a member of [OpenShift AI](https://www.redhat.com/en/technologies/cloud-computing/openshift/openshift-ai) Engineering Leadership.
+
+In the past, I've had a few role throughout Red Hat since I first joined in early 2012. I was a member of the [Ansible](https://www.redhat.com/en/technologies/management/ansible) Engineering Leadership Team, on the [Fedora](https://fedoraproject.org/) [Release Engineering Team](https://docs.fedoraproject.org/en-US/infra/release_guide/), a member of the [Fedora Engineering Steering Committee](https://docs.fedoraproject.org/en-US/fesco/), a member of the [Fedora Infrastructure](https://fedoraproject.org/wiki/Infrastructure) team, and I was the Release Engineer for the original [OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift) Online service.
 
 I have a long history of contributing to open source including but not limited to projects such as [Fedora](https://fedoraproject.org/) [1](https://badges.fedoraproject.org/user/maxamillion), [Ansible](https://github.com/ansible/ansible), [CentOS](https://centos.org/), and [Ramalama](https://github.com/containers/ramalama).
 
