@@ -13,6 +13,8 @@ I have a long history of contributing to open source including, but not limited 
 
 I've been a [Python](https://www.python.org/) developer for multiple decades and remains my favorite programming language to this day, but I also enjoy developing in [Go](https://go.dev/).
 
+My primary areas of focus, expertise, and passion reside around operating systems, infrastructure, automation, containers, information security, and cloud computing.
+
 I am currently the Chair of the [Linux Founation AI & Data](https://lfaidata.foundation/) [MLOps Committee](https://lfaidata.foundation/projects/mlops-committee/).
 
 Red Hat means something to me, I take a lot of pride in working for a company that believes in and understands Open Source Software at it's core as well as being a part of an open source project that excites a vibrant community as much as it excites me. I'm extremely passionate about open source software and it is genuinely a large part of why I wake up in the morning. I live for this stuff, it's a part of me, and it's why I have Red Hat Shadowman and Ansible tattoos on my person.
