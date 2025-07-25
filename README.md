@@ -2,6 +2,8 @@
 
 My name is Adam Miller, this is my tiny corner of GitHub.
 
+![maxamillion's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxamillion&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
 ## About Me
 I am a loving husband and father. I am an [Open Source](https://opensource.org/) and [Linux](https://kernel.org/) nerd.
 
@@ -21,4 +23,5 @@ Red Hat means something to me, I take a lot of pride in working for a company th
 
 I go by `maxamillion` in most areas of the nerd web and can often be found there. For communications I'm `maxamillion@one.ems.host` on Matrix and `@maxamillion@fosstodon.org` on Mastodon.
 
-![maxamillion's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxamillion&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![maxamillion's Algora Profile](https://algora.io/og/user/maxamillion)
+
