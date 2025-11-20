@@ -22,6 +22,3 @@ I am currently a member of the [Linux Founation AI & Data](https://lfaidata.foun
 Red Hat means something to me, I take a lot of pride in working for a company that believes in and understands Open Source Software at it's core as well as being a part of an open source project that excites a vibrant community as much as it excites me. I'm extremely passionate about open source software and it is genuinely a large part of why I wake up in the morning. I live for this stuff, it's a part of me, and it's why I have Red Hat Shadowman and Ansible tattoos on my person.
 
 I go by `maxamillion` in most areas of the nerd web and can often be found there. For communications I'm `maxamillion@one.ems.host` on Matrix and `@maxamillion@fosstodon.org` on Mastodon.
-
-![maxamillion's Algora Profile](https://algora.io/og/user/maxamillion)
-
