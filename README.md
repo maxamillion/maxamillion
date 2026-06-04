@@ -2,7 +2,7 @@
 
 My name is Adam Miller, this is my tiny corner of GitHub.
 
-![maxamillion's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxamillion&theme=dark&show_icons=true&hide_border=true&count_private=true)
+[![maxamillion's GitHub Statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician)
 
 ## About Me
 I am a loving husband and father. I am an [Open Source](https://opensource.org/) and [Linux](https://kernel.org/) nerd.
