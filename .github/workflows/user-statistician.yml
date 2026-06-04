@@ -21,6 +21,5 @@ jobs:
         custom-title: My GitHub Statistics
         hide-keys: joined, mostStarred, mostForked, followers, following, private
         max-languages: 100
-        animated-language-chart: true
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
