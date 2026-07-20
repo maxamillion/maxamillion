@@ -8,6 +8,8 @@ I'm a Distinguished Engineer at [Red Hat](https://www.redhat.com), and currently
 
 I am a core maintainer of [OpenShell](https://github.com/NVIDIA/OpenShell), an AI Agent Sandboxing, Saftey, and Governance technology originally released by [NVIDIA](https://build.nvidia.com/openshell).
 
+I am the creator and curator of [LobsterTrap](https://lobstertrap.org/), a fun wecloming Open Source collective of passionate invididuals doing innovative research, exploration, and open source development in the realm of Artificial Intelligence.
+
 In the past, I've had a few roles throughout Red Hat since I first joined in early 2012. I was a member of the [OpenShift AI](https://www.redhat.com/en/technologies/cloud-computing/openshift/openshift-ai) Engineering Leadership where I served as Technical Advisor to AI Platform Executive Leadership. Prior to that, I was a member of the [Ansible](https://www.redhat.com/en/technologies/management/ansible) Engineering Leadership Team and a member of the [Ansible Core](https://github.com/ansible/ansible) Engineering Team. Farther in the past, I was a member of the Fedora Engineering Team (now known as [Community Linux Engineering Team](https://docs.fedoraproject.org/en-US/cle/)) where I served on the [Fedora](https://fedoraproject.org/) [Release Engineering Team](https://docs.fedoraproject.org/en-US/infra/release_guide/), the [Fedora Engineering Steering Committee](https://docs.fedoraproject.org/en-US/fesco/), and the [Fedora Infrastructure](https://fedoraproject.org/wiki/Infrastructure) team. My first job at Red Hat was as the Release Engineer for the original [OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift) Online service.
 
 
